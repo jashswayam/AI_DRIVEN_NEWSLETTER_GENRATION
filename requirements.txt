@@ -1,0 +1,8 @@
+# Core dependencies
+feedparser==6.0.10        # For RSS feed parsing
+
+
+# NLP and ML dependencies
+nltk==3.8.1               # For natural language processing
+scikit-learn==1.2.2       # For machine learning algorithms 
+
